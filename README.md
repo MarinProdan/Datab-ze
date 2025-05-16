@@ -103,8 +103,6 @@ SELECT vin_code FROM cars;
 
 | vin_code           |
 
-|--------------------|
-
 | 1HGCM82633A123456  |
 
 | 2HGFB2F50DH123456  |
